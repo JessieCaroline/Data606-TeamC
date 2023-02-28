@@ -10,11 +10,16 @@ The objective of the project is to use NLP and machine learning techniques to pr
 
 The active learning process takes as input a set of labeled examples, as well as a larger set of unlabeled examples, and produces a classifier and a relatively small set of newly labeled data. Active learning has been successfully applied to a number of natural language processing tasks, such as, information extraction, named entity recognition, text categorization, part-of-speech tagging, parsing, and word sense disambiguation. 
 
+With the advent of neural network models for NLP, salient features were learned jointly with the training of the model itself, and hence focus shifted to architecture engineering, where inductive bias was rather provided through the design of a suitable network architecture conducive to learning such features.
+
 ### Data Source:
 * https://www.kaggle.com/code/duttadebadri/detailed-nlp-project-prediction-visualization/data
 
 ### Reference:
 * Olsson, Fredrik. "A literature survey of active machine learning in the context of natural language processing." (2009).
-  https://www.diva-portal.org/smash/record.jsf?dswid=-8182&pid=diva2%3A1042586
+  https://www.diva-portal.org/smash/record.jsf?dswid=-8182&pid=diva2%3A1042586 
+* Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., & Neubig, G. (2023). Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language     processing. ACM Computing Surveys, 55(9), 1-35.
+  https://dl.acm.org/doi/full/10.1145/3560815
+  
 
 
